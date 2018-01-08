@@ -1,0 +1,15 @@
+@import '../../../assets/styles/variables.scss';
+.total-cost,
+.no-car-info {
+    text-align: center;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: $blue;
+    background: $white;
+    padding: 20px;
+}
+
+.row-car {
+    cursor: pointer;
+}
